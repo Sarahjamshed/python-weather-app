@@ -41,6 +41,3 @@ The application sends a request to the OpenWeather API using the city name enter
 
 This project demonstrates the use of external APIs, JSON data processing, Python libraries, error handling, and GUI development.
 
-## Author
-
-Created as part of a Python programming internship task.
